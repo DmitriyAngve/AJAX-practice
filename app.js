@@ -1,4 +1,4 @@
-const url = "http://discoveryvip.com/shared/test1.json";
+// const url = "http://discoveryvip.com/shared/test1.json";
 const localUrl = "people.json";
 
 const btn = document.querySelector(".btn");
@@ -10,7 +10,7 @@ inputVal.style.display = "none";
 btn.textContent = "Load JSON Data";
 
 btn.addEventListener("click", (e) => {
-  getData(url);
+  getData(localUrl);
 });
 
 function getData(urlPath) {
