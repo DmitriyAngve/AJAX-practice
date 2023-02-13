@@ -1,49 +1,49 @@
 [
   {
     "name": {
-      "first": "Laurence",
+      "first": "Dmitriy",
 
-      "last": "Svekis"
+      "last": "Venediktov"
     },
 
-    "age": 40,
+    "age": 34,
 
     "location": {
-      "city": "Toronto",
+      "city": "Bishkek",
 
-      "country": "Canada"
+      "country": "Kyrgyztan"
     }
   },
 
   {
     "name": {
-      "first": "Lisa",
+      "first": "Anna",
 
-      "last": "Suekis"
+      "last": "Obodova"
     },
 
-    "age": 30,
+    "age": 33,
 
     "location": {
-      "city": "New York",
+      "city": "Budva",
 
-      "country": "USA"
+      "country": "Montenegro"
     }
   },
 
   {
     "name": {
-      "first": "Johyn",
+      "first": "Alexandr",
 
-      "last": "Sekis"
+      "last": "Venediktov"
     },
 
-    "age": 50,
+    "age": 38,
 
     "location": {
-      "city": "New York",
+      "city": "Saint-Petersburg",
 
-      "country": "USA"
+      "country": "Russia"
     }
   }
 ]
